@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Clinical Complication Detection from MIMIC-IV Discharge Summaries"
+type: software
+authors:
+  - family-names: Biswas
+    given-names: Anthony Amit
+year: 2026
+license: MIT
+repository-code: "https://github.com/Anthonyamit5787/clinical-complication-detection-mimiciv"
+keywords:
+  - clinical NLP
+  - MIMIC-IV
+  - medSpaCy
+  - scispaCy
+  - electronic health records
+
